@@ -1,3 +1,3 @@
 # AdTech architecture implementation
 
-![Alt text]('diagrama.png')
+![Architecture](diagrama.png)
