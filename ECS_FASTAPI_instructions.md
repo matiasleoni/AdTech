@@ -20,15 +20,6 @@ src
 ```
 * crear AWS access key para user IAM en
 <https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html>
-```
-matias
-AKIATSHIYVETHIAL****
-```
-<BLRH>
-
-  ```
-4Wrww6Hl24XSPOorF4x6O8kr9dQm3MC04UXak5IZ
-```
 * dar permission policy: "AmazonEC2ContainerRegistryFullAccess"
 * Configurar el AWS CLI. Si estás en Linux, de acá en adelante, poner "sudo" delante de cada vez que aparece el comando "aws" o "docker":
 ```
